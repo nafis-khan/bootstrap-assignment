@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+}
+
+.full-header{
+    border-bottom: 1px solid gainsboro;
+}
+
+.header{
+    margin-top: 20px;
+    
+}
+
+
+.logo{
+    float: left
+}
+
+.logo img{
+
+}
+
+nav{
+    float: right;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    float: left;
+    margin-left: 30px;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #474746;
+}
+
+.main-content{
+    margin-top: 2%;
+}
+
+.main-content h1{
+    text-align: center;
+    font-size: 50px;
+    color: #413D52;
+}
+
+.main-content h2{
+
+    text-align: center;
+    font-size: 50px;
+    color: #0387F8;
+}
+
+.main-content p{
+    text-align: center;
+    margin: 0 20%
+}
+
+.main-content img{
+    margin: 0px 30%;
+    width: 40%
+}
+
+.success-section{
+    margin-top: 9%;
+}
+
+
+.success-left{
+    text-align: right;
+
+}
+
+.success-left h1{
+    color: red;
+}
+
+.success-left p{
+    margin-left: 54%;
+}
+
+.success-right{
+    text-align: left;
+    
+}
+
+.success-right h1{
+    margin-right: 46%;
+    font-size: 40px;
+}
+
+.item-section{
+    margin-top: 09%;
+}
+
+
+.item-1 {
+    text-align: center;
+    background-color: #FEEBED;
+    height: 400px;
+}
+
+.item-1 img{
+    width: 80%;
+    
+}
+
+.item-2 {
+    text-align: center;
+    background-color: #E9FAF4ED;
+    height: 400px;
+}
+
+.item-2 img {
+    width: 78%;
+}
+
+.item-3{
+    text-align: center;
+    background-color: #FFF7E9;
+    height: 400px;
+}
+
+
+.item-3 img{
+    width: 78%;
+}
+
+.footer{
+    background-color: #0387F8;
+    text-align: center;
+    margin-top: 9%;
+    color: white;
+    height: 75px;
+    padding-top: 22px;
+    
+}
